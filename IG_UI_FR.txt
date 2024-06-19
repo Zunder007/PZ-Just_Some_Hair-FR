@@ -19,6 +19,10 @@ IGUI_FR = {
 	IGUI_Hair_Kurumi = "Kurumi",
 	IGUI_Hair_Pigtails = "Couettes",
 
+	IGUI_Hair_HanabiBlackDecored = "Couettes Hanabi(Noir)",
+	IGUI_Hair_HanabiWhitekDecored = "Couettes Hanabi (Blanc)",
+	IGUI_Hair_LongTwintails = "Couettes",
+
 	IGUI_Hair_mHairstyleR1hat = "Balayage latéral Droit avec Chapeau",
 	IGUI_Hair_mHairstyleR1hatmirror = "Balayage latéral Gauche avec Chapeau",
 	IGUI_Hair_mHairstyleR2hat = "Balayage latéral Long Droit avec Chapeau",
@@ -48,4 +52,17 @@ IGUI_FR = {
 	IGUI_Hair_HairstyleR5defaulmirror = "Balayage latéral Tresses Gauche",
 	IGUI_Hair_HairstyleR5group1mirror = "Balayage latéral Gauche",
 	IGUI_Hair_HairstyleR5group4mirror = "Balayage latéral Gauche",
+
+	IGUI_Hair_LongTwintailsHoodie = "Couettes longues Capuche",
+	IGUI_Hair_LongTwintailsBandana = "Couettes longues Bandana",
+	IGUI_Hair_LongTwintailsHat = "Couettes longues Chapeau",
+	IGUI_Hair_LongTwintailsHelmet = "Couettes longues Casque",
+	IGUI_Hair_HanabiBlackDecoredHoodie = "Hanabi Capuche décorée (Noir)",
+	IGUI_Hair_HanabiBlackdecoredBandana = "Hanabi Bandana décoré (Noir)",
+	IGUI_Hair_HanabiBlackdecoredHat = "Hanabi Chapeau décoré (Noir)",
+	IGUI_Hair_HanabiBlackDecoredHelmet = "Hanabi Casque décoré (Noir)",
+	IGUI_Hair_HanabiWhiteDecoredHoodie = "Hanabi Capuche décorée (Blanc)",
+	IGUI_Hair_HanabiWhitedecoredBandana = "Hanabi Bandana décoré (Blanc)",
+	IGUI_Hair_HanabiWhitekDecoredHat = "Hanabi Chapeau décoré (Blanc)",
+	IGUI_Hair_HanabiWhitekDecoredHelmet = "Hanabi Casque décoré (Blanc)",
 }
